@@ -1,0 +1,10 @@
+1 Pikachu Electric 55 41 96
+2 Bulbasaur Grass 49 49 98
+3 Charmander Fire 52 43 95
+4 Squirtle Water 48 65 113
+5 Ninetales Fire 76 75 151
+6 Oddish Grass 50 55 105
+7 Psyduck Water 52 48 100
+8 Seedot Grass 40 50 90
+9 Horsea Water 40 70 110
+10 Totodile Water 65 64 129
